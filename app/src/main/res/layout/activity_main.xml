@@ -78,7 +78,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="26dp"
         android:lineSpacingExtra="4dp"
-        android:text="Green bridge from Seatle is really awesome to get the hot spot for traveller who is traveling right there with their families."
+        android:text="f"
         android:textColor="#FFF"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
